@@ -1,10 +1,9 @@
 package main
 
 import (
+	"booking-tickets/helper"
 	"fmt"
 	"strings"
-
-	"booking-tickets/helper"
 )
 
 const confTickets int = 50
